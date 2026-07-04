@@ -24,4 +24,6 @@ function UIBuilders.CreateSettingsUI()
 
 end
 
+print("✅ UIBuilders loaded")
+
 return UIBuilders
