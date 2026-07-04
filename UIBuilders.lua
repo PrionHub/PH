@@ -12,4 +12,16 @@ function UIBuilders.CreateScreenGui(playerGui)
 
 end
 
+function UIBuilders.CreateIgnoreWindow()
+
+end
+
+function UIBuilders.CreateMainWindow()
+
+end
+
+function UIBuilders.CreateSettingsUI()
+
+end
+
 return UIBuilders
